@@ -1620,9 +1620,8 @@ releases:
   version: 1.50.0
   sha1: 77186faf9dc9606e633ef27186ae09ba8599f4cb
 - name: cf-mysql
-  url: https://bosh.io/d/github.com/cloudfoundry/cf-mysql-release?v=36.11.0
-  version: 36.11.0
-  sha1: 42af21025230d4fd01480d3b1a2ced9d48c83472
+  url: https://bosh.io/d/github.com/cloudfoundry/cf-mysql-release?v=36.10.0
+  version: 36.10.0
 - name: cf-networking
   url: https://bosh.io/d/github.com/cloudfoundry/cf-networking-release?v=1.11.0
   version: 1.11.0
